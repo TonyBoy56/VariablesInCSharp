@@ -1,0 +1,15 @@
+C:\Users\codro\OneDrive\Desktop\Personal_Projects\repos\VariablesInCSharp\bin\Debug\net7.0\VariablesInCSharp.exe
+C:\Users\codro\OneDrive\Desktop\Personal_Projects\repos\VariablesInCSharp\bin\Debug\net7.0\VariablesInCSharp.deps.json
+C:\Users\codro\OneDrive\Desktop\Personal_Projects\repos\VariablesInCSharp\bin\Debug\net7.0\VariablesInCSharp.runtimeconfig.json
+C:\Users\codro\OneDrive\Desktop\Personal_Projects\repos\VariablesInCSharp\bin\Debug\net7.0\VariablesInCSharp.dll
+C:\Users\codro\OneDrive\Desktop\Personal_Projects\repos\VariablesInCSharp\bin\Debug\net7.0\VariablesInCSharp.pdb
+C:\Users\codro\OneDrive\Desktop\Personal_Projects\repos\VariablesInCSharp\obj\Debug\net7.0\VariablesInCSharp.csproj.AssemblyReference.cache
+C:\Users\codro\OneDrive\Desktop\Personal_Projects\repos\VariablesInCSharp\obj\Debug\net7.0\VariablesInCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\codro\OneDrive\Desktop\Personal_Projects\repos\VariablesInCSharp\obj\Debug\net7.0\VariablesInCSharp.AssemblyInfoInputs.cache
+C:\Users\codro\OneDrive\Desktop\Personal_Projects\repos\VariablesInCSharp\obj\Debug\net7.0\VariablesInCSharp.AssemblyInfo.cs
+C:\Users\codro\OneDrive\Desktop\Personal_Projects\repos\VariablesInCSharp\obj\Debug\net7.0\VariablesInCSharp.csproj.CoreCompileInputs.cache
+C:\Users\codro\OneDrive\Desktop\Personal_Projects\repos\VariablesInCSharp\obj\Debug\net7.0\VariablesInCSharp.dll
+C:\Users\codro\OneDrive\Desktop\Personal_Projects\repos\VariablesInCSharp\obj\Debug\net7.0\refint\VariablesInCSharp.dll
+C:\Users\codro\OneDrive\Desktop\Personal_Projects\repos\VariablesInCSharp\obj\Debug\net7.0\VariablesInCSharp.pdb
+C:\Users\codro\OneDrive\Desktop\Personal_Projects\repos\VariablesInCSharp\obj\Debug\net7.0\VariablesInCSharp.genruntimeconfig.cache
+C:\Users\codro\OneDrive\Desktop\Personal_Projects\repos\VariablesInCSharp\obj\Debug\net7.0\ref\VariablesInCSharp.dll
